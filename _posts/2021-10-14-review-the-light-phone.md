@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Review: The Light Phone"
+categories: tech
+---
+
+## But, why?
+
+I have been using [The Light Phone](https://www.thelightphone.com/) (technically the The Light Phone 2) for the last ten months as part of my effort to say 'no' to the all encroaching world of technology around us. Phones and the apps written for them are designed to "encourage engagement" - a tasty euphemism for eating your time, your energy, and your thoughts without you realizing it. It's so effective that, in the middle of a sentence, in the middle of a conversation, face to face with another person, we will stop, listen to our buzzing phone, read a notification, answer in a text, or swipe a notification away - all while ignoring the person in front of you. I've done that to others, and it's a behavior I detest; so I wanted to stop, to not treat people in a way I don't want to be treated. My attempts to stop that behavior, to be more present, have somewhat succeeded. But the smart phone always offers more. "Are you bored? Install a game. Interested in something? Search the internet for it. Lonely? Chat with someone." It's an endless hole of distraction and fragmentation. I can't think as deeply or as slowly as I did a decade ago and the smart phone is part of that.
+
+I've looked around at dumb phones for a while, trying to find a usable one that met my requirements - a surprisingly difficult task. The current UIs on dumb phones are awful, the interfaces are slow, and they have "features" I do not want.
+
+> No, I do not want a web browser on a 2" square screen. If I wanted a web browser, I'd use a smart phone.
+
+I want a phone that:
+
+* Makes and receives phone calls.
+* Can reasonably text, both one on one and in groups.
+* Supports receiving image texts.
+* Supports a large number of contacts with a reasonable edit mechanism.
+* Doesn't have a small limit on the number of texts it can store; I'm not deleting texts if I have more than 200.
+* Doesn't have a web browser.
+* Doesn't support other apps.
+* Doesn't include other ways to waste time.
+* Is reasonably inexpensive.
+* Says no to features it could have, because it understands what it is.
+
+The Light Phone mostly fits these requirements. I've also looked at the [Mudita Pure](https://mudita.com/) which was unreleased at the beginning of 2021. I considered some Android variant (and had tried a minimal lockscreen as an intermediate step, but easy app installation is simply not worth it) but didn't want to root my phone and hadn't seen the [Gabb](https://gabbwireless.com/) phones, [Pinwheel](https://www.pinwheel.com/), or the [Wisephone](https://techless.com/).
+
+## Review Specifics
+
+The Light Phone has an e-paper display with all its advantages and limitations. The display updates slowly but doesn't require a backlight in bright light. The backlight (which can be set to always on or just on in lowlight) does its job. The screen updates quickly enough for most things. Unfortunately, every once in a while, the interface glitches out and doesn't respond to inputs for a few seconds or more - even while vibrating to register the touch and button press. This has resulted in accidental calls (since the send text and make phone call are in the same place).
+
+### Texting
+
+Texting on the phone is slow and a little painful. There is no autocorrect (which is probably better), but it does mean that typos happen somewhat frequently on the small keyboard and correcting them sometimes takes a couple attempts. I initially kept my Google Fi service, but Google Fi doesn't send MMS messages (group or picture texts) in a way that the Light Phone can use. I switched to the Light Phone's service which has been reasonable. Group texts work as expected. Media texts show as a little image icon and the actual media gets forwarded to my email for viewing later (assuming Settings > Account & Info > Light Account > Email MMS Media has been enabled). Emojis display intermittently; I will get a text with an emoji in it and it won't display until I scroll up and down a few times. The difficulty in texting has encouraged me to use texting for logistics or to exchange information snippets and to use phone calls for actual conversations. This subtle encouragement to call rather than text has been one of the little boons this phone provides.
+
+### Phone Calls
+
+The Light Phone makes and receives phone calls, as one might expect. I have had issues with answering a phone call and the other person being unable to hear me. I also have issues where the phone is on silent, but rings anyway while the screen displays the home screen so I am unable to answer the call. Contacts are set to sync between the phone and their web dashboard - a nice feature and a much better interface for adding contacts than the phone. In general the audio from both the earpiece and the speaker phone have acceptable volume and clarity, but not always. Sometimes the speaker seems to clip the audio and sometimes the audio cuts in and out. People often have a hard time understanding me over the phone, but I have not had that issue with this phone.
+
+Voicemail is supported through the older, call your phone number and enter a PIN, method with a touch tone menu. This works fine though isn't as easy to navigate as visual voicemail, and while for a few years, there was no indication of an unheard voicemail, a recent update displays a small tape icon in the top right corner when if there are any unlistened to voicemails.
+
+### Support
+
+Their support email is reasonably responsive (usually responding within a few days), but has been a mixed bag. When I reported that something is not working, the response has often been "try hard resetting your phone, and let the battery die once a week to avoid software issues". I reported the "cannot answer phone call" bug in April 2021 and in August 2021 was told this was a new bug they were working on fixing. I was given a replacement phone after some of the issues did not resolve themselves with a hard reset; the replacement phone did not resolve these issues either. This behavior by support is fairly common - being a programmer, I would like to see the bug fixed not just the issue worked around - but most support that I encounter just wants to help me work around the current issue without seemingly reporting it to their developers to fix. While this strategy by support has sometimes helped with the immediate issue, it does not help resolve the underlying bug. And it's concerning their software is written in such a way, or using technology, such that power cycling is necessary to maintain the phone's functionality. While this might be acceptable in certain software, there is little excuse for it in a phone.
+
+### Physicality
+
+The form factor is excellent. It is small and thin. The buttons on the side work well. The power button on the top is a little too eager to turn the phone off, especially in a case. The case gives the phone a nice, rubberized feel, but the corners of the case started breaking after 6 months of use. Without a case, the gray of the phone on its face has started rubbing to white within a few months of use (I generally keep my phone face down on my desk). I have dropped the phone once without a case (from waist high onto a wood floor), and the glass on the screen in the upper left corner is detaching so that space between the glass and the bevel is visible.
+
+### Adjusting to it
+
+Adjusting to using the Light Phone exclusively has been interesting. I text significantly less than I used to. I call more frequently. I still find myself checking it to see if anyone has text or called me - even when I have it set to vibrate or ring. I have to look up where I want to go and print out, write down, or remember directions - something I enjoy though it does require preparation and I often underestimate how much of the directions I will remember. I find that when I know my wife will be with me, I just ask her to navigate for me with her phone. I like how small the phone is. I haven't decided if I miss having a camera or not. I like that I cannot be distracted in a moment with the urge to take a picture for the memory but can experience it, but more and more frequently people will say, "take a picture and send it to me" which requires the use of my wife's phone. Two-factor authentication that requires a key from an app is not available on this phone, but I can receive text codes. Receiving a link in a text is always a bit of a pain since typing those is easy to make mistakes and the Light Phone's font doesn't do a great job of distinguishing I's, L's, and 1's. I am grateful that this phone is a smaller attack surface and that there's not a lot of private information stored on it or in the cloud for it - especially given more recent information about what Apple and Android track about you.
+
+## Summary
+
+In summary, the Light Phone is a brilliant idea marred by poor technical choices and lackluster software. I cannot recommend it to someone who wants a phone. I can only recommend it to someone whose desire for minimalism supercedes their desire for a phone. I want the Light Phone to succeed which is why their failures are more poignant, but also why I am riding this out. Hopefully they will fix their bugs and make the Light Phone, or a successor, a usable minimal choice.
