@@ -1,0 +1,6 @@
+# Ideal Tech Stack
+
+* Cish
+* MLish
+* Luaish
+
