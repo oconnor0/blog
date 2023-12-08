@@ -46,3 +46,7 @@ In other words, `step("1")` does **not** call the function defined a few lines a
 I forget that languages do that.
 
 The issue is, of course, not the presence of dynamic scoping (though I prefer visual signifiers to such) but the odd interaction between various scoping rules.
+
+## EDIT:
+
+I guess likely what is happening here is that `def step` binds that function implementation to the `step` global variable and then `for step` inside the `if` block is rebinding `step` with its iteration variable. Rather than actually having dynamic scoping.
