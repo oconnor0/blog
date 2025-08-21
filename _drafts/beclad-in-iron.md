@@ -84,7 +84,7 @@ upon rolling verdant sward of green
 they sat atop their steeds a-gleaming,
 rippling spears, champing hoofs, clanking shields,
 with a thunder they strove together,
-and on that day,
+and on that fateful most cloudy day,
 sir calgrenant proved himself better
 for God himself upheld his just cause.
 his spear it smote straight through shield and breast
@@ -92,3 +92,18 @@ that on his first blow, his foe was best.
 and falling down, that boy in iron
 gasped not in pain at his fatal wound
 but at the sight afore his dim eyes,
+the king now stood before his bleeding
+corpse and blessed that iron-beclad boy
+ere his eyes forever closed, he wept
+knowing the grave wrong that he had done.
+
+and so buried in the church graveyard,
+that boy lay between father and she
+who was most blesséd of all he knew.
+no longer was he clad in iron
+but simply laid down in love alone.
+
+now my listeners our story ends
+forget not to tell it far and wide
+the lay of he beclad in iron
+
