@@ -1,4 +1,4 @@
-beclad in iron, or the lay of castorel/cassiel
+## the lay of he beclad in iron
 
 he came alone, beclad in iron
 unbidden to that hall of feasting.
