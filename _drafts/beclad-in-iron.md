@@ -72,3 +72,11 @@ that young boy, that young knight in iron
 for he loved him well and wished no harm
 but was there possibly some strange way
 by which bloodshed might be avoided?
+but ere this fateful meeting right well
+he knew that doom was scribed from below.
+this knight before him, iron-beclad
+truly wrapped his heart in wrought iron,
+filled his belly brim full of passion
+directed hate at his rightful king.
+so that good man bowed his weary head.
+
