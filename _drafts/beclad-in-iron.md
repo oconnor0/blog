@@ -54,7 +54,7 @@ when just before you spit in mine eye?"
 "is it not that great feast whitsuntide?
 and thee would spill mine blood beside. no,
 today is not the day for quarrels.
-tomorrow justice will see thed die."
+tomorrow justice will see thee die."
 
 "fah, have not we all heard mass this morn?
 i will spill thine blood this holy day.
@@ -80,3 +80,15 @@ filled his belly brim full of passion
 directed hate at his rightful king.
 so that good man bowed his weary head.
 
+upon rolling verdant sward of green
+they sat atop their steeds a-gleaming,
+rippling spears, champing hoofs, clanking shields,
+with a thunder they strove together,
+and on that day,
+sir calgrenant proved himself better
+for God himself upheld his just cause.
+his spear it smote straight through shield and breast
+that on his first blow, his foe was best.
+and falling down, that boy in iron
+gasped not in pain at his fatal wound
+but at the sight afore his dim eyes,
