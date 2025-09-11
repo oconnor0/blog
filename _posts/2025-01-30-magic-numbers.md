@@ -13,4 +13,4 @@ For example, gzip archives start with `1F`, and `8B`; PNGs start with `89`, `50`
 
 Knowing some of the common ones in your field can be a simple and useful way to figure out if some file or stream of data or web response is in the format you expect.
 
-1. https://en.wikipedia.org/wiki/List_of_file_signatures
+1. [https://en.wikipedia.org/wiki/List_of_file_signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)

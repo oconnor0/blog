@@ -164,4 +164,4 @@ This is a special reason for urgency.
 >
 > THE CoEVOLUTION QUARTERLY WINTER 1983
 
-- Copied from https://www.inist.org/library/1982-03-21.Illich.Silence%20is%20a%20Commons.pdf with typos fixed: modem -> modern
+- Copied from [https://www.inist.org/library/1982-03-21.Illich.Silence%20is%20a%20Commons.pdf](https://www.inist.org/library/1982-03-21.Illich.Silence%20is%20a%20Commons.pdf) with typos fixed: modem -> modern
